@@ -2,4 +2,4 @@
 
 Code de la manette 
 
-Actuellement juste la récuperation des données des gyroscope est fonctionnel.
+Actuellement juste la récupération des données du gyroscope et de l'accéléromètre est fonctionnelle.
