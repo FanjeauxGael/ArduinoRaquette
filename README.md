@@ -2,4 +2,5 @@
 
 Code de la manette 
 
-Actuellement juste la récupération des données du gyroscope et de l'accéléromètre est fonctionnelle.
+AccGyroValid : récupération des données du gyroscope et de l'accéléromètre.
+AccelGyroWifi : récupération des données du gyroscope et de l'accéléromètre et connexion wifi puis envoie sur page web sur le réseau.
