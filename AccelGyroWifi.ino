@@ -9,8 +9,8 @@
 #define constG 9.8
 
 ///////please enter your sensitive data in the Secret tab/arduino_secrets.h
-char ssid[] = "Livebox-739C";        // your network SSID (name)
-char pass[] = "5WKK6uCcMDWig5WMbE";    // your network password (use for WPA, or use as key for WEP)
+char ssid[] = "SSID";        // your network SSID (name)
+char pass[] = "password";    // your network password (use for WPA, or use as key for WEP)
 int status = WL_IDLE_STATUS;
 WiFiServer server(80);
 
